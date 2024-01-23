@@ -231,6 +231,7 @@ Authentication Service is part of Online Learning Management System. It is built
 
 ### Workflow Diagram ###
 
+![image](https://github.com/BATCH-OLMS/Devops_Project-OLMS/assets/148078250/2ebcebfd-94cc-4a83-b4a2-85eac29f8754)
 
 ## Development ##
 
