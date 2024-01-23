@@ -6,8 +6,8 @@ Authentication Service is part of Online Learning Management System. It is built
 ## Use Cases ##
 
 ### Use Case Diagram ###
-![usecases.png](![image](https://github.com/BATCH-OLMS/Devops_Project-OLMS/assets/148078250/cb2b621a-4134-45c7-bcd1-dc7d38f4c495)
-)
+![image](https://github.com/BATCH-OLMS/Devops_Project-OLMS/assets/148078250/cb2b621a-4134-45c7-bcd1-dc7d38f4c495)
+
 ## User Stories ##
 ### G0001-001: Register ###
 
